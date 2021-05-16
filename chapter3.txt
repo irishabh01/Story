@@ -1,0 +1,19 @@
+C:\Users\Sudo\Desktop\story>git config --global user.name "Rishabh Chouhan"
+
+C:\Users\Sudo\Desktop\story>git commit -m "Complete Chapter 1"
+[master (root-commit) 60ad114] Complete Chapter 1
+ 1 file changed, 1 insertion(+)
+ create mode 100644 chapter1.txt
+
+C:\Users\Sudo\Desktop\story>git log
+commit 60ad1149dac410aa428f9ef91bc01f8f81b6b1fc (HEAD -> master)
+Author: Rishabh Chouhan <rishabhchouhan5444@gmail.com>
+Date:   Sun May 16 10:38:44 2021 +0530
+
+    Complete Chapter 1
+
+C:\Users\Sudo\Desktop\story>Notepad chapter2.txt
+
+C:\Users\Sudo\Desktop\story>Notepad chapter3.txt
+
+C:\Users\Sudo\Desktop\story>
